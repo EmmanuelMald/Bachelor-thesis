@@ -29,7 +29,7 @@ NOTE: Codes in TERRESTRIAL SOLAR RESOURCE and EXTRATERRESTRIAL SOLAR RESOURCE fi
       data is also equivalent.
 
 
-  0-Order                                    Folder                                       Subfolder                                      .py file        
+    Order                                    Folder                                       Subfolder                                      .py file        
     
     1                                       Biomass                                           -                                          biomass.py
    
